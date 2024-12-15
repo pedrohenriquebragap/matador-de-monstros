@@ -318,3 +318,36 @@ html {
 	color: black;
 }
 
+.selected-action {
+    box-shadow: 0 0 0 2px #fff, 0 0 0 4px #000;
+    transform: scale(1.05);
+    transition: all 0.2s ease;
+}
+
+/* modo escuro */
+.dark .selected-action {
+    box-shadow: 0 0 0 2px #000, 0 0 0 4px #fff;
+}
+
+.keyboard-controls {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.keyboard-controls li {
+    padding: 5px 0;
+}
+
+.keyboard-controls strong {
+    display: inline-block;
+    min-width: 50px;
+    padding: 2px 8px;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.dark .keyboard-controls strong {
+    background-color: #333;
+}
