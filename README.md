@@ -43,6 +43,18 @@
   <hr>
 </p>
 
+## Controles do jogo
+
+Além dos botões na interface, você pode usar os seguintes controles do teclado:
+
+A: Selecionar Ataque Normal
+W: Selecionar Ataque Especial
+S: Selecionar Cura
+D: Selecionar Desistir
+Enter: Confirmar a ação selecionada
+
+Obs: Os controles só funcionam durante seu turno e quando o jogo está selecionado.
+
 ## Jogando
 Você pode executar o jogo no seu computador, para isso, basta seguir os seguintes passos: 
 1. clicar em "Code" > Download ZIP (ou clicar [aqui](https://github.com/simonardejr/matador-de-monstros/archive/master.zip)).
