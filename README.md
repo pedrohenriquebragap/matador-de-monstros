@@ -43,6 +43,14 @@
   <hr>
 </p>
 
+## Jogando
+Você pode executar o jogo no seu computador, para isso, basta seguir os seguintes passos: 
+1. clicar em "Code" > Download ZIP (ou clicar [aqui](https://github.com/simonardejr/matador-de-monstros/archive/master.zip)).
+2. extrair o zip em qualquer diretório no seu computador
+3. abrir o arquivo `index.html` e pronto :)
+
+Ou, se não quiser fazer o download, você pode também abrir o link: [Matador de Monstros](https://simonardejr.github.io/matador-de-monstros/index.html).
+
 ## Controles do jogo
 
 Além dos botões na interface, você pode usar os seguintes controles do teclado:
@@ -54,14 +62,6 @@ D: Selecionar Desistir
 Enter: Confirmar a ação selecionada
 
 Obs: Os controles só funcionam durante seu turno e quando o jogo está selecionado.
-
-## Jogando
-Você pode executar o jogo no seu computador, para isso, basta seguir os seguintes passos: 
-1. clicar em "Code" > Download ZIP (ou clicar [aqui](https://github.com/simonardejr/matador-de-monstros/archive/master.zip)).
-2. extrair o zip em qualquer diretório no seu computador
-3. abrir o arquivo `index.html` e pronto :)
-
-Ou, se não quiser fazer o download, você pode também abrir o link: [Matador de Monstros](https://simonardejr.github.io/matador-de-monstros/index.html).
 
 ## Contribuindo
 
